@@ -9,31 +9,6 @@ Estou em busca de uma oportunidade onde eu possa aplicar os conhecimentos que ob
 
 ## O projeto 
 
-O projeto consiste basicamente em efetuar uma GET request e receber uma resposta no formato JSON que é disponibilizada no Logcat. Os dados pertencem a uma ferramenta chamada [JSONPlaceholder](https://jsonplaceholder.typicode.com/), que simula o back-end de uma aplicão, para que testes possam ser feitos pelo front-end. 
-
-## Tecnologias usadas 
-
-Essas são as principais tecnologias usadas nessa aplicação:
-
-## O projeto 
-
-O projeto consiste basicamente em efetuar um GET request e receber uma resposta no formato JSON que é disponibilizada no Logcat. Os dados pertencem a uma ferramenta chamada [JSONPlaceholder](https://jsonplaceholder.typicode.com/), que simula o back-end de uma aplicão, para que testes possam ser feitos pelo front-end. 
-
-## Tecnologias usadas 
-
-Essas são as principais tecnologias usadas nessa aplicação:
-
-## GETReq 
-
-Projeto que disponibiliza dados da internet no Logcat. 
-## Sobre mim 
-
-Iniciei meus estudos de programação em março de 2020, por sugestão de um amigo da área. Com o tempo. fui me interessando cada vez mais pelo assunto, e em fevereiro de 2021, passei a estudar desenvolvimento de apps através do Android Studio associado à linguagem Kotlin.
-
-Estou em busca de uma oportunidade onde eu possa aplicar os conhecimentos que obtive, pelos cursos que fiz e pelas orientações que me foram passadas durante a minha jornada de estudos. Busco uma empresa onde eu possa aprender muito e entregar o melhor resultado possível.
-
-## O projeto 
-
 O projeto consiste basicamente em efetuar um GET request e receber uma resposta no formato JSON que é disponibilizada no Logcat. Os dados pertencem a uma ferramenta chamada [JSONPlaceholder](https://jsonplaceholder.typicode.com/), que simula o back-end de uma aplicão, para que testes possam ser feitos pelo front-end. 
 
 ## Tecnologias usadas 
